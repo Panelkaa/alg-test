@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body{	
+ font-family: 'Montserrat', sans-serif;
+}
+.role{
+	color: #FF1493;
+}
+
+.title {
+		 font-family: Montserrat;
+	font-size: 40px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 59px;
+	letter-spacing: 0em;
+	text-align: center;
+
+	color: white;
+	text-align: center;
+	margin: 48px 22px 0px;
+	box-sizing: border-box;
+
+    
+}
+.container{
+	display: flex;
+	
+	}
+.aside{
+	width: 310px;
+	margin: 64px 0px 63px 57px;
+    background-color: #1A142D;
+    padding: 18px;
+    box-sizing: border-box;
+}
+.content{
+	width: 467px;
+	height:656px;
+	margin: 64px 123px auto 67px;
+}
+.avatar{
+	width: 100%;
+	border: 1px solid white;
+}
+.first{
+	margin-bottom: 20px;
+}
+.second{
+	margin-top: 0;
+}
+
+.Date{
+	
+    margin: 10px auto 0px;
+    text-align: center;
+    color: white;
+    box-sizing: border-box;
+}
+
+.Track{
+	margin: 14px auto 7px;
+}
+
+
+.Album{
+	margin: 14px auto 7px;
+}
+
+.Place{
+    margin: 0px auto 78px;
+    text-align: center;
+    color: white;
+    box-sizing: border-box;
+}
